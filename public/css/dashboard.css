@@ -1,0 +1,9 @@
+.trix-content {
+    min-height: 500px !important;
+    max-height: 500px !important;
+    overflow-y: auto !important;
+}
+
+.gambar-preview {
+    object-fit: cover !important;
+}
